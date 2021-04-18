@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GeekBrainsNavigation</string>
+    <string name="left_fragment_title">Left Fragment</string>
+    <string name="inner_left_fragment">Inner Left Fragment</string>
+    <string name="detail">Detail</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</string>
+    <string name="next">Next</string>
+    <string name="main">Main</string>
+    <string name="list_title">List</string>
+    <string name="right_fragment_title">Right Fragment</string>
+</resources>
